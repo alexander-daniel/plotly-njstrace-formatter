@@ -31,10 +31,10 @@ Click [here](https://plot.ly/~alexander.daniel/33) for the interactive graph.
 ![Output](readme.png)
 
 
-### PlotlyFormatter(username, apiKey, graphName, interval, layout)
-`username` is your Plotly username
-`apiKey` is your Plotly api key
-`graphName` is your desired graph name
-`interval` is the frequency to post your data to plotly (default 5s)
-`layout` **optional** is a Plotly layout object (default used if none specified)
+### PlotlyFormatter(username, apiKey, graphName, interval, layout)	
+- `username` is your Plotly username
+- `apiKey` is your Plotly api key
+- `graphName` is your desired graph name
+- `interval` is the frequency to post your data to plotly (default 5s)
+- `layout` **optional** is a Plotly layout object (default used if none specified)
 
