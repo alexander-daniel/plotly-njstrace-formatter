@@ -26,6 +26,7 @@ setInterval(function run(){
 ```
 
 #### Outputs
+Click [here](https://plot.ly/~alexander.daniel/33) for the interactive graph.
 ![Output](readme.png)
 
 
