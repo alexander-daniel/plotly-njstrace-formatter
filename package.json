@@ -3,7 +3,11 @@
   "version": "0.0.2",
   "description": "output njstrace logs to plotly graphs",
   "main": "index.js",
-  "author": "",
+  "author": "Alex Vados",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexander-daniel/plotly-njstrace-formatter.git"
+  },
   "license": "MIT",
   "dependencies": {
     "njstrace": "0.0.2",
