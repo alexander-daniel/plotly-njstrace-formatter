@@ -1,6 +1,7 @@
 'use strict';
 
 var PlotlyFormatter = require('../index.js');
+
 var traceOptions = { 
 	formatter: new PlotlyFormatter('alexander.daniel', 'yhs5fjlwin', 'njstrace-example', 5000) 
 };
