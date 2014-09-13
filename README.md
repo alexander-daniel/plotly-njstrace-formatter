@@ -1,5 +1,6 @@
 ## njstrace + plotly
-#### quick and dirty visualization of node.js function tracing. Plugin (formatter) for [njstrace](https://github.com/ValYouW/njsTrace)
+#### quick and dirty visualization of node.js function tracing. 	
+Plugin (formatter) for [njstrace](https://github.com/ValYouW/njsTrace)
 
 This formatter will output a bar chart with each bar representing the time spent in each function. Functions are labelled with the file they were called from.
 
