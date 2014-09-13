@@ -1,0 +1,15 @@
+{
+  "name": "njstrace-plotly-formatter",
+  "version": "0.0.0",
+  "description": "output njstrace logs to plotly graphs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "njstrace": "0.0.2",
+    "plotly": "^0.2.13"
+  }
+}
